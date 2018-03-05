@@ -4,6 +4,6 @@
 * Bullet Points 
 * Bullet Points 
 
-```
-print("hello World")
 ```python
+print("hello World")
+```
